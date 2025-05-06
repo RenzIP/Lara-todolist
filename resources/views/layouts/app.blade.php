@@ -18,14 +18,14 @@
     <!-- Custom styles -->
     <style>
         .todo{
-            color: #6f42c1;
+            color:rgb(48, 255, 16);
         }
         .btn-purple {
             position: relative;
             overflow: hidden;
             background-color: transparent;
-            border: 2px solid #6f42c1;
-            color: #6f42c1;
+            border: 2px solidrgb(255, 0, 170);
+            color:rgb(255, 0, 208);
             transition: color 0.3s ease-in-out, border-color 0.3s ease-in-out;
         }
 
